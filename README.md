@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Skills in Competitive Programming**
 
-- 🌱 I’m currently learning **MEARN Stack.**
+- 🌱 I’m currently learning **MERN Stack.**
 
 - 👯 I’m looking to collaborate on **Web Applicatios.**
 
