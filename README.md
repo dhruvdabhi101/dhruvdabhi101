@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applicatios.**
 
-- 👨‍💻 All of my projects are available at [dhruvdabhi101.github.io/portfolio](dhruvdabhi101.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [dhruvdabhi101.github.io/portfolio/](https://dhruvdabhi101.github.io/portfolio/)
 
 - 📫 How to reach me **dhruvdabhi101@gmail.com**
 
