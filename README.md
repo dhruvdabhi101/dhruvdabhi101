@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Dabhi</h1>
-<h3 align="center">Competitive Programmer and Web Devleoper</h3>
+<h3 align="center">Competitive Programmer and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvdabhi101&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvdabhi101" /> </p>
 
