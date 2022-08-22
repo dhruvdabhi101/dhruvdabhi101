@@ -37,7 +37,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvdabhi101&theme=nord&show_icons=true&locale=en&layout=compact" alt="dhruvdabhi101" /></p>
+![](https://raw.githubusercontent.com/dhruvdabhi101/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvdabhi101&theme=nord&show_icons=true&locale=en" alt="dhruvdabhi101" /></p>
 
