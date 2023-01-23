@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 👯 I’m looking to collaborate on **Machhine Learning.**
+- 👯 I’m looking to collaborate on **Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [dhruvdabhi101.github.io/Portfolio/](https://dhruvdabhi101.github.io/Portfolio/)
 
