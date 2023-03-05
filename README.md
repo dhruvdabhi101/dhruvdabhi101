@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv Dabhi</h1>
-<h3 align="center">Competitive Programmer and Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvdabhi101&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvdabhi101" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruvdabhi101" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvdabhi101?logo=twitter&style=for-the-badge" alt="dhruvdabhi101" /></a> </p>
 
-- 🔭 I’m currently working on **My Skills in Competitive Programming**
+- 🔭 I’m currently working on **My Skills in Blockchain Dev.**
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **NextJS and Flask.**
 
-- 👯 I’m looking to collaborate on **Machine Learning.**
+- 👯 I’m looking to collaborate on **Web3 Projects.**
 
 - 👨‍💻 All of my projects are available at [dhruvdabhi101.github.io/Portfolio/](https://dhruvdabhi101.github.io/Portfolio/)
 
