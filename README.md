@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **My Skills in Blockchain Dev.**
 
-- 🌱 I’m currently learning **NextJS and Flask.**
+- 🌱 I’m currently learning **NextJS and Web3.**
 
 - 👯 I’m looking to collaborate on **Web3 Projects.**
 
-- 👨‍💻 All of my projects are available at [dhruvdabhi101.github.io/Portfolio/](https://dhruvdabhi101.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [dhruvdabhi101.github.io/Portfolio/](https://dhruvdabhi101.github.io/portfolio/)
 
 - 📫 How to reach me **dhruvdabhi101@gmail.com**
 
