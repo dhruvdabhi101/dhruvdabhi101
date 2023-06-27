@@ -9,7 +9,7 @@ i'm dhruv
 &nbsp;
 - i use rust and neovim btw
 &nbsp;
-- soon to publish bad code videos at <a href="https://www.youtube.com/@d3uny">D3Uny</a>
+- soon to publish bad code videos at <a href="https://www.youtube.com/@dhruvdabhiyt">D3Uny</a>
 &nbsp;
 - terrible takes on <a href="https://twitter.com/dhruvdabhi101">@dhruvdabhi101</a>
 </pre>
