@@ -9,7 +9,7 @@ i'm `dhruv`
 &nbsp;
 - i use rust and neovim btw
 &nbsp;
-- soon to publish bad code blogs <a href="https://www.dhruvdabhi.me">here</a>
+- soon to publish bad code blogs <a href="https://www.dhruvdabhi.me/blog">here</a>
 &nbsp;
 - terrible takes on <a href="https://twitter.com/dhruvdabhi101">@dhruvdabhi101</a>
 </pre>
