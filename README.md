@@ -5,7 +5,7 @@ Fun Facts
 
 Almost everything in my repos are developed while i was learning that technology
 
-- I write blogs on <a href="https://dhruvdabhi.me/blogs">my website</a>
+- I write blogs on <a href="https://dhruvdabhi.me/blog">my website</a>
 - I do open source, btw
 - I play ukulele, btw (absolute chad)
 - I sh*tpost on <a href="https://x.com/dhruvdabhi101">X (previously twitter)</a>
