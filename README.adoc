@@ -1,4 +1,4 @@
-= Dhruv Dabhi
+= Dhruv
 
 Just a guy who loves to understand how computers work and build stuff
 with different things
@@ -8,7 +8,7 @@ Fun Facts
 Almost everything in my repos are developed while i was learning that
 technology
 
-* I write https://dhruvdabhi.com[blogs] on my website
+* I write https://ruv.world[blogs] on my website
 * I do open source, btw
 * I play ukulele, btw (absolute chad)
 * I sh*tpost on X (previously twitter)
